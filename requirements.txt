@@ -1,0 +1,7 @@
+absl-py
+gin-config
+tf-nightly==1.15.0.dev20190821
+tfp-nightly==0.33.0.dev20190910
+tf-estimator-nightly==1.14.0.dev2019091001
+gym==0.12.1
+git+git://github.com/deepmind/dm_control.git
